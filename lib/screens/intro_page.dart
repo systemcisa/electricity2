@@ -31,7 +31,7 @@ class IntroPage extends StatelessWidget {
                     child: ExtendedImage.asset('assets/imgs/shalomhouseImg.png')),
                 const Text('기숙사 시설보수신청 관리 어플 앱입니다'),
                 const SizedBox(
-                  height: 19,
+                  height: 15,
                 ),
                 TextButton(
                   onPressed: () async {
